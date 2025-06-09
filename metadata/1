@@ -1,1 +1,12 @@
+{
+  "name": "Knight",
+  "description": "He's an OG",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/knight.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Accessory", "value": "Glasses" }
+  ],
+  "attack": 7,
+  "defense": 5
+}
 
