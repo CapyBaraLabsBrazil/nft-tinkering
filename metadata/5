@@ -1,0 +1,12 @@
+{
+  "name": "Hawk Standing",
+  "description": "He's an OG",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/5.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Accessory", "value": "Claws" },
+    { "trait_type": "Animal", "value": "Light" }
+  ],
+  "attack": 7,
+  "defense": 5
+}
