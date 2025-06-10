@@ -1,0 +1,11 @@
+{
+  "name": "Archer",
+  "description": "He's an OG",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/3.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Accessory", "value": "Bow" }
+  ],
+  "attack": 7,
+  "defense": 5
+}
