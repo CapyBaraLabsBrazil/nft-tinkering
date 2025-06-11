@@ -1,7 +1,7 @@
 {
   "name": "Labrador Knight",
   "description": "He's a lab",
-  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/7.jpg",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/8.jpg",
   "attributes": [
     { "trait_type": "Background", "value": "Red" },
     { "trait_type": "Accessory", "value": "Shell" },
