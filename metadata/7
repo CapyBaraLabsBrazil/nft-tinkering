@@ -1,0 +1,12 @@
+{
+  "name": "Turtle Knight",
+  "description": "He's a Turtle",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/7.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Red" },
+    { "trait_type": "Accessory", "value": "Shell" },
+    { "trait_type": "Animal", "value": "Turtle" }
+  ],
+  "attack": 7,
+  "defense": 5
+}
