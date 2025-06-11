@@ -1,0 +1,12 @@
+{
+  "name": "Dragon",
+  "description": "He's a dragon",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/5.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Red" },
+    { "trait_type": "Accessory", "value": "Claws" },
+    { "trait_type": "Animal", "value": "Dragon" }
+  ],
+  "attack": 7,
+  "defense": 5
+}
