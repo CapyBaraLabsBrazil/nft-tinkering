@@ -11,9 +11,11 @@
   "magic": 12, 
   "magicDefense": 7, 
   "speed": 5,
-  "species": "human",
-  "type": "warrior", 
+  "species": "Human",
+  "type": "Warrior", 
   "faction": "Midlands",
-  "weakness": "dark"
+  "weakness": "Dark",
+  "special": "Long Sword Thrust",
+  "magicType": "Light"
 }
 
