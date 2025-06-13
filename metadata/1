@@ -7,6 +7,13 @@
     { "trait_type": "Accessory", "value": "Glasses" }
   ],
   "attack": 7,
-  "defense": 5
+  "defense": 5,
+  "magic": 12, 
+  "magicDefense": 7, 
+  "speed": 5,
+  "species": "human",
+  "type": "warrior", 
+  "faction": "Midlands",
+  "weakness": "dark"
 }
 
