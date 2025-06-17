@@ -1,7 +1,7 @@
 {
   "name": "White Horse",
   "description": "He's Fast",
-  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images2/1.jpg",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images2/2.jpg",
   "attributes": [
     { "trait_type": "Background", "value": "White" },
     { "trait_type": "Accessory", "value": "Saddle" }
