@@ -1,7 +1,7 @@
 {
   "name": "White Dragon",
   "description": "He's Faster",
-  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images2/1.jpg",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images2/3.jpg",
   "attributes": [
     { "trait_type": "Background", "value": "Green" },
     { "trait_type": "Accessory", "value": "Saddle" }
