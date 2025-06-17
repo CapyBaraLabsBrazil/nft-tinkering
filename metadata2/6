@@ -1,0 +1,20 @@
+{
+  "name": "Black Horse",
+  "description": "He's Fast",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/1.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Accessory", "value": "Saddle" }
+  ],
+  "attack": 7,
+  "defense": 5,
+  "magic": 12, 
+  "magicDefense": 7, 
+  "speed": 5,
+  "species": "Human",
+  "type": "Warrior", 
+  "faction": "Midlands",
+  "weakness": "Dark",
+  "special": "Long Sword Thrust",
+  "magicType": "Light"
+}
