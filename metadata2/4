@@ -1,0 +1,20 @@
+{
+  "name": "Green Dragon",
+  "description": "He's Fast",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images/1.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Green" },
+    { "trait_type": "Accessory", "value": "Saddle" }
+  ],
+  "attack": 1,
+  "defense": 1,
+  "magic": 1, 
+  "magicDefense": 1, 
+  "speed": 5,
+  "species": "Human",
+  "type": "Warrior", 
+  "faction": "Midlands",
+  "weakness": "Dark",
+  "special": "Long Sword Thrust",
+  "magicType": "Light"
+}
