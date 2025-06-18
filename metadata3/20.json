@@ -1,0 +1,11 @@
+{
+  "name": "Red Staff",
+  "description": "Protects hard",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/20.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "magic": 9,
+  "type": "magic"
+}
