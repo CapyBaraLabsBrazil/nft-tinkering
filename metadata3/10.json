@@ -1,0 +1,11 @@
+{
+  "name": "Orange Shield",
+  "description": "Protects hard",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/10.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "defense": 7,
+  "type": "Shield"
+}
