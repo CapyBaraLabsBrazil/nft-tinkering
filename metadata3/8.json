@@ -1,0 +1,11 @@
+{
+  "name": "Silver Sword",
+  "description": "Hits hard",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/8.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "attack": 8,
+  "type": "Weapon"
+}
