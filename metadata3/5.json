@@ -1,0 +1,11 @@
+{
+  "name": "Fire Sword",
+  "description": "Hits with fire",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/5.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "attack": 10,
+  "type": "Weapon"
+}
