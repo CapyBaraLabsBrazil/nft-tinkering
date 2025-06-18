@@ -1,0 +1,11 @@
+{
+  "name": "Silver Armor",
+  "description": "Protects hard",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/17.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "speed": 9,
+  "type": "Armor"
+}
