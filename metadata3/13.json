@@ -1,7 +1,7 @@
 {
   "name": "Brown Boots",
   "description": "Protects hard",
-  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/10.jpg",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/13.jpg",
   "attributes": [
     { "trait_type": "Background", "value": "Silver" },
     { "trait_type": "Accessory", "value": "Shines" }
