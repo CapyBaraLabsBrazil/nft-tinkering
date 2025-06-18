@@ -1,0 +1,11 @@
+{
+  "name": "Wooden Hammer",
+  "description": "Hits hard",
+  "image": "https://raw.githubusercontent.com/CapyBaraLabsBrazil/nft-tinkering/main/images3/2.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "Silver" },
+    { "trait_type": "Accessory", "value": "Shines" }
+  ],
+  "attack": 2,
+  "type": "Weapon"
+}
